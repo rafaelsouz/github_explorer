@@ -2,7 +2,6 @@
   <img src='src\assets\logo.svg'/>
 </h1>
 
----
 
 <h2 align="center">
   <img src='github/githubexplorer.gif'/>
@@ -20,8 +19,6 @@
   <br/>
   <img src='github/repository.png' width=800/>
 </h2>
-
----
 
 # Indice
 
